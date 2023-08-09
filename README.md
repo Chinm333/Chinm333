@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Angular,ionic, nest.js, AWS-SQS, Neo4j**
+- 🌱 I’m currently learning **DSA, nest.js, AWS-SQS, Neo4j**
 
 - 👨‍💻 All of my projects are available at [https://chinm333-portfolio.netlify.app/](https://chinm333-portfolio.netlify.app/)
 
-- 💬 Ask me about **React. js, Angular,Ionic, Python,Bootstrap**
+- 💬 Ask me about **React. js, Angular, Ionic, Python, Bootstrap, HTML, CSS**
 
 - 📫 How to reach me **chinm3333@gmail.com**
 
