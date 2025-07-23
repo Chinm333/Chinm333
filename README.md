@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning about **DSA**
+- 🌱 I’m currently learning about **Agentic AI**
 
-- 👨‍💻 All of my projects are available at [https://chinm333-portfolio.netlify.app/](https://chinm333-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/chinm333](https://github.com/chinm333)
 
-- 💬 Ask me about **React. js, Angular, Ionic, Python, Bootstrap, HTML, CSS, Nodejs, Expressjs, Nestjs, MongoDB**
+- 💬 Ask me about **Web development, Hybrid app development, System Architecture, Agentic AI, Databases**
 
 - 📫 How to reach me **chinm3333@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RDKsoLWAeaIbKzSff248b10diuOrGFYs/view?usp=drive_link](https://drive.google.com/file/d/1RDKsoLWAeaIbKzSff248b10diuOrGFYs/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LBKB6bSDYBsktK5gdgGVppSbzAxEI4zF/view?usp=drive_link](https://drive.google.com/file/d/1LBKB6bSDYBsktK5gdgGVppSbzAxEI4zF/view?usp=drive_link)
 
 - 💻 Portfolio- [https://chinmoydas.netlify.app](https://chinmoydas.netlify.app)
 
